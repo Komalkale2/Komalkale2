@@ -34,6 +34,16 @@ Streamlit application for CSV analysis and visualization.
 ### 📧 Email Spam Detection
 Machine Learning project with 97% accuracy.
 
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Komalkale2&show_icons=true&theme=tokyonight" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komalkale2&theme=tokyonight" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalkale2&layout=compact&theme=tokyonight" />
+</p>---
+
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/komalkale22/
