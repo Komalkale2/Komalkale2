@@ -20,7 +20,7 @@
 | Data Tools | Power BI, Excel, Pandas, NumPy |
 | Web Dev | HTML, CSS, React.js, Node.js |
 | Database | MySQL, MongoDB , MYSQL |
-| Tools | Git, GitHub, VS Code |
+| Tools | Git, GitHub, VS Code ,Vercel , Streamlit |
 
 ## 🚀 Projects
 
