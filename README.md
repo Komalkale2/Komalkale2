@@ -19,7 +19,7 @@
 | Languages | Python, SQL, JavaScript, C, C++ |
 | Data Tools | Power BI, Excel, Pandas, NumPy |
 | Web Dev | HTML, CSS, React.js, Node.js |
-| Database | MySQL, MongoDB |
+| Database | MySQL, MongoDB , MYSQL |
 | Tools | Git, GitHub, VS Code |
 
 ## 🚀 Projects
