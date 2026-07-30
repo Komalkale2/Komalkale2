@@ -1,118 +1,105 @@
+brary
+/
+Premium_GitHub_README.md
+
+
+::: {align="center"}
+
 👋 Hi, I'm Komal Kale
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things+🚀" />{=html}
-
-🚀 Turning Data into Insights | Building Modern Web Applications
+Data Analyst • Python Developer • Full Stack Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Insights.;Building+Modern+Applications.;Power+BI+%7C+Python+%7C+SQL.;Always+Learning+New+Things.🚀" />{=html}
 
 <p>
-
-<img src="https://komarev.com/ghpvc/?username=Komalkale2&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>{=html}<img src="https://img.shields.io/github/followers/Komalkale2?style=for-the-badge"/>{=html}<img src="https://img.shields.io/github/stars/Komalkale2?style=for-the-badge"/>{=html}
+<a href="https://www.linkedin.com/in/komalkale22/">{=html}<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">{=html}</a>{=html}
+<a href="https://komal-portfolio-rose.vercel.app/">{=html}<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white">{=html}</a>{=html}
+<a href="mailto:kalekomal2227@gmail.com">{=html}<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">{=html}</a>{=html}
 
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=Komalkale2&style=for-the-badge&color=0ea5e9"/>{=html}
 :::
 
-💫 About Me
+👩‍💻 About Me
+🎓 BCA Graduate | JSPM University, Pune
 
-🎓 BCA Graduate -- JSPM University, Pune
+📊 Passionate about Data Analytics
+🐍 Python Developer
+📈 Power BI Dashboard Builder
+🌐 Full Stack Web Developer
+🤖 Exploring AI & Machine Learning
 
-📊 Passionate about Data Analytics & Visualization
+"Every dataset has a story.
+I love transforming data into meaningful insights."
+⚡ Tech Arsenal
+Programming
 
-💻 Full Stack Web Developer
 
-🐍 Python | SQL | Power BI | React
 
-🌱 Currently learning Machine Learning & Advanced Python
 
-🎯 Goal: Build impactful AI and Data products
+Analytics
 
-💻 Tech Stack
+
+
+
+
+Web
+
 
 
 
 🚀 Featured Projects
+📊 India Population Visualization
+Interactive GeoJSON visualization with Python.
 
-Project                       Description
+📈 CSV Data Analyzer
+Upload CSV, generate statistics and charts using Streamlit.
 
-📊 India Population           Interactive GeoJSON map with PythonVisualization
+🤖 Email Spam Detection
+Machine Learning + NLP project with 97% accuracy.
 
-📈 CSV Data Analyzer          Streamlit dashboard for analytics
+🩺 TB Care AI Assistant
+AI-powered healthcare assistant.
 
-🤖 Email Spam Detection       NLP model with 97% accuracy
+👩 Women Safety Analytics
+Analytics dashboard for women's safety.
 
-🩺 TB Care AI Assistant       AI healthcare assistant
-
-👩 Women Safety Analytics     Web-based safety analytics platform
-
-📈 GitHub Statistics
-
+📊 GitHub Analytics
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Komalkale2&show_icons=true&theme=tokyonight"/>{=html}<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalkale2&layout=compact&theme=tokyonight"/>{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Komalkale2&show_icons=true&theme=tokyonight"/>{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalkale2&layout=compact&theme=tokyonight"/>{=html}
 
 </p>
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Komalkale2&theme=tokyonight"/>{=html}
 
 </p>
-
-🏆 GitHub Trophy
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Komalkale2&theme=tokyonight&row=1&column=7"/>{=html}
+<img src="https://github-profile-trophy.vercel.app/?username=Komalkale2&theme=tokyonight&column=4&margin-w=15"/>{=html}
 
 </p>
-
-📊 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Komalkale2&theme=tokyo-night"/>{=html}
 
 </p>
-
-🐍 Snake Animation
-
-Enable GitHub Actions and add the generated snake SVG later.
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
 📜 Certifications
-
 Oracle Cloud Foundations
 
 Oracle AI Foundations
 
 Oracle DevOps Professional
 
-Mahindra Pride Program
+Mahindra Pride
 
 Rubicon Future Skills
 
-📫 Connect With Me
-
+📫 Let's Connect
 🌐 Portfolio: https://komal-portfolio-rose.vercel.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/komalkale22/
 
 📧 Email: kalekomal2227@gmail.com
 
-📸 Instagram: https://instagram.com/komall2\_\_
-
 ::: {align="center"}
 
-⭐ Thanks for visiting my profile!
-
-Let's build something amazing together.
+⭐ Thanks for visiting my GitHub Profile!
+"Code. Learn. Build. Repeat."
+:::
