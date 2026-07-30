@@ -4,11 +4,9 @@
 
 ### Data Analyst • Python Developer • Full Stack Developer
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things+🚀" />
-</p>
+### 🚀 Transforming Data into Meaningful Insights
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/komalkale22">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,23 +26,31 @@
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
 ```bash
 > whoami
 
 Name        : Komal Kale
-Role        : Data Analyst
+
+Role        : Data Analyst & Python Developer
+
 Education   : BCA Graduate
+
 Location    : Pune, India
 
-Currently Working On
-• Data Analytics
-• Power BI Dashboards
-• Python Automation
-• Full Stack Web Development
+Focus Areas :
 
-Mission
+• Data Analytics
+
+• Power BI Dashboards
+
+• Python Automation
+
+• Full Stack Development
+
+Mission :
+
 Transforming raw data into meaningful insights.
 ```
 
@@ -52,16 +58,22 @@ Transforming raw data into meaningful insights.
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp"/>
 </p>
 
-### Frameworks & Tools
+### Frameworks & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode,vercel"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
 </p>
 
 ### Data Analytics
@@ -84,21 +96,21 @@ Transforming raw data into meaningful insights.
 
 | Project | Description |
 |---------|-------------|
-| 📊 India Population Visualization | Interactive map using Python & GeoJSON |
-| 📈 CSV Data Analyzer | Streamlit dashboard for CSV analysis |
+| 📊 India Population Visualization | Interactive GeoJSON visualization using Python |
+| 📈 CSV Data Analyzer | Streamlit dashboard for CSV analytics |
 | 🤖 Email Spam Detection | NLP model with 97% accuracy |
 | 🩺 TB Care AI Assistant | AI-powered healthcare assistant |
-| 👩 Women Safety Analytics | Web application for women safety |
+| 👩 Women Safety Analytics | Women's safety analytics web application |
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Komalkale2&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Komalkale2&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalkale2&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalkale2&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -108,23 +120,13 @@ Transforming raw data into meaningful insights.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Komalkale2&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Komalkale2&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Komalkale2&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -134,7 +136,7 @@ Transforming raw data into meaningful insights.
 
 ---
 
-# 📜 Certifications
+# 🎓 Certifications
 
 - Oracle Cloud AI Foundations
 - Oracle Cloud Foundations
@@ -144,20 +146,16 @@ Transforming raw data into meaningful insights.
 
 ---
 
-# 📫 Connect With Me
+# 📬 Connect With Me
 
-<p>
-
-🌐 Portfolio:
+🌐 **Portfolio**  
 https://komal-portfolio-rose.vercel.app
 
-💼 LinkedIn:
+💼 **LinkedIn**  
 https://www.linkedin.com/in/komalkale22/
 
-📧 Email:
+📧 **Email**  
 kalekomal2227@gmail.com
-
-</p>
 
 ---
 
@@ -165,6 +163,6 @@ kalekomal2227@gmail.com
 
 ## ⭐ Thanks for visiting my profile!
 
-*"Code • Learn • Build • Repeat"* 🚀
+### Code • Analyze • Build • Repeat 🚀
 
 </div>
