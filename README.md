@@ -134,18 +134,6 @@ Transforming raw data into meaningful insights.
 
 ---
 
-# 📬 Connect With Me
-
-🌐 **Portfolio**  
-https://komal-portfolio-rose.vercel.app
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/komalkale22/
-
-📧 **Email**  
-kalekomal2227@gmail.com
-
----
 
 <div align="center">
 
