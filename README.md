@@ -100,6 +100,7 @@ Transforming raw data into meaningful insights.
 | 📈 CSV Data Analyzer | Streamlit dashboard for CSV analytics |
 | 🤖 Email Spam Detection | NLP model with 97% accuracy |
 | 🩺 TB Care AI Assistant | AI-powered healthcare assistant |
+| 🎙️ Mimi – AI Voice-Controlled Excel Assistant |
 | 👩 Women Safety Analytics | Women's safety analytics web application |
 
 ---
